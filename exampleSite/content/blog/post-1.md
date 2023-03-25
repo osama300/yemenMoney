@@ -11,7 +11,7 @@ description: "this is meta description"
 
 # taxonomies
 categories:
-  - "Android And Gaming"
+  - "Osamah"
 tags:
   - "Photos"
   - "Game"
